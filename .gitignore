@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Chapter02/ConsoleApp1/.vs/ConsoleApp1
+/Chapter02/ConsoleApp1/bin/Debug/net5.0
+/Chapter02/ConsoleApp1/obj
+/Chapter02/WpfApp1/.vs/WpfApp1
+/Chapter02/WpfApp1/bin/Debug/net5.0-windows
+/Chapter02/WpfApp1/obj
+/Chapter03/Ch03Ex01/.vs/Ch03Ex01
+/Chapter03/Ch03Ex01/bin/Debug/net6.0
+/Chapter03/Ch03Ex01/obj
+/Chapter03/Ch03Ex02/.vs/Ch03Ex02/DesignTimeBuild
+/Chapter03/Ch03Ex02/.vs/Ch03Ex02
+/Chapter03/Ch03Ex02/bin/Debug/net5.0
+/Chapter03/Ch03Ex02/obj
+/Chapter04/Ch04Ex01/.vs/Ch04Ex01
+/Chapter04/Ch04Ex01/bin/Debug/net5.0
+/Chapter04/Ch04Ex01/obj
+/Chapter04/Ch04Ex02/.vs/Ch04Ex02
+/Chapter04/Ch04Ex02/bin/Debug/net5.0
+/Chapter04/Ch04Ex02/obj
