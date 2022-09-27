@@ -1,0 +1,22 @@
+﻿9.1 What is wrong with the following code?
+public sealed class MyClass
+{
+    // Class members.
+}
+public class myDerivedClass : MyClass
+{
+    // Class members.
+}
+Answer:
+'Program.myDerivedClass': cannot derive from sealed type 'Program.MyClass'
+
+9.2 How would you define a noncreatable class?
+Answer:
+A static class is basically the same as a non-static class, 
+but there is one difference: a static class cannot be instantiated. 
+In other words, you cannot use the new operator to create a variable of the class type.
+    
+In summary, static classes can neither support instantiation nor inheritance. 
+This makes them ideal for use in utility classes that do not need further modifications. 
+On the other hand, if we need to add functionalities to our classes, 
+non-static classes would be more ideal than their static counterparts.

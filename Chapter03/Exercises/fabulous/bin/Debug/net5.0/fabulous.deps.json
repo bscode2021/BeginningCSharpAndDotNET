@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fabulous/1.0.0": {
+        "dependencies": {
+          "super": "1.0.0"
+        },
+        "runtime": {
+          "fabulous.dll": {}
+        }
+      },
+      "super/1.0.0": {
+        "runtime": {
+          "super.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fabulous/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "super/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

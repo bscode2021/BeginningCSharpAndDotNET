@@ -1,0 +1,12 @@
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.deps.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\ref\Ch09ClassLib.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.AssemblyReference.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\ref\Ch09ClassLib.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.pdb

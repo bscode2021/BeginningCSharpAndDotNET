@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b691bc18-d267-4c11-88b6-0cc0ca251647": {
+      "ProjectGuid": "b691bc18-d267-4c11-88b6-0cc0ca251647",
+      "DisplayName": "Ch06Ex01",
+      "ColorIndex": 0
+    },
+    "fa524188-a38d-41b3-880d-a880b63ea060": {
+      "ProjectGuid": "fa524188-a38d-41b3-880d-a880b63ea060",
+      "DisplayName": "ExchangingData",
+      "ColorIndex": 1
+    },
+    "9d159a56-f445-44f4-abc4-9ada5acf0727": {
+      "ProjectGuid": "9d159a56-f445-44f4-abc4-9ada5acf0727",
+      "DisplayName": "OveroadingFuntions",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

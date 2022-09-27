@@ -1,0 +1,16 @@
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\bin\Debug\net5.0\Objects.exe
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\bin\Debug\net5.0\Objects.deps.json
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\bin\Debug\net5.0\Objects.runtimeconfig.json
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\bin\Debug\net5.0\Objects.runtimeconfig.dev.json
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\bin\Debug\net5.0\Objects.dll
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\bin\Debug\net5.0\Objects.pdb
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\Objects.csproj.AssemblyReference.cache
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\Objects.AssemblyInfoInputs.cache
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\Objects.AssemblyInfo.cs
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\Objects.csproj.CoreCompileInputs.cache
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\Objects.dll
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\refint\Objects.dll
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\Objects.pdb
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\Objects.genruntimeconfig.cache
+C:\Users\boban\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter08\Objects\obj\Debug\net5.0\ref\Objects.dll

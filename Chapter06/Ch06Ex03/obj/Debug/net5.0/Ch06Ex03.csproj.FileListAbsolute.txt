@@ -1,0 +1,16 @@
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\bin\Debug\net5.0\Ch06Ex03.exe
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\bin\Debug\net5.0\Ch06Ex03.deps.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\bin\Debug\net5.0\Ch06Ex03.runtimeconfig.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\bin\Debug\net5.0\Ch06Ex03.runtimeconfig.dev.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\bin\Debug\net5.0\Ch06Ex03.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\bin\Debug\net5.0\ref\Ch06Ex03.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\bin\Debug\net5.0\Ch06Ex03.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\Ch06Ex03.csproj.AssemblyReference.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\Ch06Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\Ch06Ex03.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\Ch06Ex03.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\Ch06Ex03.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\Ch06Ex03.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\ref\Ch06Ex03.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\Ch06Ex03.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter06\Ch06Ex03\obj\Debug\net5.0\Ch06Ex03.genruntimeconfig.cache

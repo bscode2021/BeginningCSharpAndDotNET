@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcDyFyp2R+ofO5nz6MCkKQB9/D0RoAc9x8QhMqpuWqSLb7un0rPmN7xSMVTuTiANaUDe9XnogK1ZSGumGxGwag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boban\\OneDrive\\CA\\Repositories\\BSCode\\BeginningCSharpAndDotNET\\Chapter08\\Objects\\Objects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boban\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

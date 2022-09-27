@@ -1,0 +1,15 @@
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\bin\Debug\net6.0\Ch04Ex03.exe
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\bin\Debug\net6.0\Ch04Ex03.deps.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\bin\Debug\net6.0\Ch04Ex03.runtimeconfig.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\bin\Debug\net6.0\Ch04Ex03.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\bin\Debug\net6.0\ref\Ch04Ex03.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\bin\Debug\net6.0\Ch04Ex03.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\Ch04Ex03.csproj.AssemblyReference.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\Ch04Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\Ch04Ex03.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\Ch04Ex03.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\Ch04Ex03.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\Ch04Ex03.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\ref\Ch04Ex03.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\Ch04Ex03.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter04\Ch04Ex03\obj\Debug\net6.0\Ch04Ex03.genruntimeconfig.cache

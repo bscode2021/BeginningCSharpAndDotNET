@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ch09Ex02/1.0.0": {
+        "dependencies": {
+          "Ch09ClassLib": "1.0.0"
+        },
+        "runtime": {
+          "Ch09Ex02.dll": {}
+        }
+      },
+      "Ch09ClassLib/1.0.0": {
+        "runtime": {
+          "Ch09ClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch09Ex02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ch09ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
