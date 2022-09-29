@@ -6,6 +6,7 @@ namespace Ch10Ex01
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Creating object myObj...");
             MyClass myObj = new MyClass("My Object");
             Console.WriteLine("myObj created.");
