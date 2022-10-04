@@ -4,7 +4,7 @@ Deck deck = new Deck();
 
 for (int j = 0; j < 50; j++)
 {
-
+    deck.Shuffle();
 
     Card[] hand = new Card[5];
     Random random = new Random();
