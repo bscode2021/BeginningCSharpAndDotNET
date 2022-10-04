@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53541e5d-f30c-4681-8608-09bf8947add3": {
+      "ProjectGuid": "53541e5d-f30c-4681-8608-09bf8947add3",
+      "DisplayName": "Ch10CardLib",
+      "ColorIndex": 0
+    },
+    "3794dcc2-77c6-40d6-a43b-0bbefcab18df": {
+      "ProjectGuid": "3794dcc2-77c6-40d6-a43b-0bbefcab18df",
+      "DisplayName": "Ch10CardClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
