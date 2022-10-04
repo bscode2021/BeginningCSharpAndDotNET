@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch10CardLib", "Ch10CardLib\Ch10CardLib.csproj", "{53541E5D-F30C-4681-8608-09BF8947ADD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10CardClient", "Ch10CardClient\Ch10CardClient.csproj", "{3794DCC2-77C6-40D6-A43B-0BBEFCAB18DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch10CardClient", "Ch10CardClient\Ch10CardClient.csproj", "{3794DCC2-77C6-40D6-A43B-0BBEFCAB18DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlushExercise", "FlushExercise\FlushExercise.csproj", "{6CE2353C-FBCF-4E6B-8001-217DCC2FBC11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3794DCC2-77C6-40D6-A43B-0BBEFCAB18DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3794DCC2-77C6-40D6-A43B-0BBEFCAB18DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3794DCC2-77C6-40D6-A43B-0BBEFCAB18DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE2353C-FBCF-4E6B-8001-217DCC2FBC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE2353C-FBCF-4E6B-8001-217DCC2FBC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE2353C-FBCF-4E6B-8001-217DCC2FBC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE2353C-FBCF-4E6B-8001-217DCC2FBC11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

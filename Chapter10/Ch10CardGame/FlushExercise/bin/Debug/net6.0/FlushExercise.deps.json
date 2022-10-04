@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FlushExercise/1.0.0": {
+        "dependencies": {
+          "Ch10CardLib": "1.0.0"
+        },
+        "runtime": {
+          "FlushExercise.dll": {}
+        }
+      },
+      "Ch10CardLib/1.0.0": {
+        "runtime": {
+          "Ch10CardLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlushExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ch10CardLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
