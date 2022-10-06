@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch11CardLib", "Ch11CardLib\Ch11CardLib.csproj", "{43971815-3F0F-42FC-A115-1BB17365D589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43971815-3F0F-42FC-A115-1BB17365D589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43971815-3F0F-42FC-A115-1BB17365D589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43971815-3F0F-42FC-A115-1BB17365D589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43971815-3F0F-42FC-A115-1BB17365D589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324856D6-6B6F-4F90-B086-8E92ED58C1E6}
+	EndGlobalSection
+EndGlobal

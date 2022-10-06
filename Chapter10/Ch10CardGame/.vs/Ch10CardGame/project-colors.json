@@ -10,7 +10,12 @@
       "ProjectGuid": "3794dcc2-77c6-40d6-a43b-0bbefcab18df",
       "DisplayName": "Ch10CardClient",
       "ColorIndex": 1
+    },
+    "6ce2353c-fbcf-4e6b-8001-217dcc2fbc11": {
+      "ProjectGuid": "6ce2353c-fbcf-4e6b-8001-217dcc2fbc11",
+      "DisplayName": "FlushExercise",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

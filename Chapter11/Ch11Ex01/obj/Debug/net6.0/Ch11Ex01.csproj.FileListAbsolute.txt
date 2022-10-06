@@ -1,0 +1,15 @@
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\bin\Debug\net6.0\Ch11Ex01.exe
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\bin\Debug\net6.0\Ch11Ex01.deps.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\bin\Debug\net6.0\Ch11Ex01.runtimeconfig.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\bin\Debug\net6.0\Ch11Ex01.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\bin\Debug\net6.0\ref\Ch11Ex01.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\bin\Debug\net6.0\Ch11Ex01.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\Ch11Ex01.csproj.AssemblyReference.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\Ch11Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\Ch11Ex01.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\Ch11Ex01.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\Ch11Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\Ch11Ex01.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\ref\Ch11Ex01.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\Ch11Ex01.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter11\Ch11Ex01\obj\Debug\net6.0\Ch11Ex01.genruntimeconfig.cache
