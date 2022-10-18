@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IterationStatements\**" />
+    <EmbeddedResource Remove="IterationStatements\**" />
+    <None Remove="IterationStatements\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Chapter03\Ch03Ex011\Ch03Ex011.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.exe
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.deps.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.runtimeconfig.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\ref\StreamWrite.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.csproj.AssemblyReference.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\ref\StreamWrite.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.genruntimeconfig.cache

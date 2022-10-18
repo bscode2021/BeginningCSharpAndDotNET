@@ -7,8 +7,18 @@ using System.Threading.Tasks;
 
 namespace Ch11CardLib
 {
-    public class CardCollection : CollectionBase
+    public class CardCollection : CollectionBase, ICloneable
     {
+        public object Clone()
+        {
+            CardCollection newCardCollection = new CardCollection();
+            foreach (Card sourceCard in List)
+            {
+                newCardCollection.Add(sourceCard);
+            }
+            return newCardCollection;
+        }
+
         public void Add(Card card) => List.Add(card);
         public void Remove(Card card) => List.Remove(card);
 
@@ -37,5 +47,7 @@ namespace Ch11CardLib
         /// which you access through the InnerList property.
         /// </summary>
         public bool Contains(Card card) => InnerList.Contains(card);
+
+       
     }
 }

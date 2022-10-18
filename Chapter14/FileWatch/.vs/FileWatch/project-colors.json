@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7d8a477-a78c-40f1-bae5-14464f70121c": {
+      "ProjectGuid": "a7d8a477-a78c-40f1-bae5-14464f70121c",
+      "DisplayName": "FileWatch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

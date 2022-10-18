@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stories>
+	<story>
+		<title>A house in Angier Street</title>
+		<author>
+			<name>Sheridan Le Fanu</name>
+			<nationality>Irish</nationality>
+		</author>
+		<rating>eerie</rating>
+	</story>
+	<story>
+		<title>The Signalman</title>
+		<author>
+			<name>Charles Dickens</name>
+			<nationality>English</nationality>
+		</author>
+		<rating>atmospheric</rating>
+	</story>
+	<story>
+		<title>The Turn of the Screw</title>
+		<author>
+			<name>Henry James</name>
+			<nationality>American</nationality>
+		</author>
+		<rating>a bit dull</rating>
+	</story>
+	<story>
+		<title>string</title>
+		<author>
+			<name>string</name>
+			<nationality>string</nationality>
+		</author>
+		<rating>string</rating>
+	</story>
+</stories>
