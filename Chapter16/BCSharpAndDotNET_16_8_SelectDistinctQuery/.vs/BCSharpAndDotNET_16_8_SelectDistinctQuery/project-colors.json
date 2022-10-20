@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d64e776f-08fb-40d7-9313-67460d391cd6": {
+      "ProjectGuid": "d64e776f-08fb-40d7-9313-67460d391cd6",
+      "DisplayName": "BCSharpAndDotNET_16_8_SelectDistinctQuery",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
