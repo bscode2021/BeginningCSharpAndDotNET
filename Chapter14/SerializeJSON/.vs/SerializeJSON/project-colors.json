@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "716e6758-e068-41c6-82b8-6ce865799819": {
+      "ProjectGuid": "716e6758-e068-41c6-82b8-6ce865799819",
+      "DisplayName": "SerializeJSON",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

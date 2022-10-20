@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BeginningCSharpAndDotNET_16_5_OrderQueryResults/1.0.0": {
+        "runtime": {
+          "BeginningCSharpAndDotNET_16_5_OrderQueryResults.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeginningCSharpAndDotNET_16_5_OrderQueryResults/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BCSharpAndDotNET_16_8_SelectDistinctQuery/1.0.0": {
+        "runtime": {
+          "BCSharpAndDotNET_16_8_SelectDistinctQuery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BCSharpAndDotNET_16_8_SelectDistinctQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

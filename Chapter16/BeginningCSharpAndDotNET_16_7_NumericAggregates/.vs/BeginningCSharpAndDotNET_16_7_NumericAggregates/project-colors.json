@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e0232f8-f14e-4a6d-81e6-e20f74f0bde3": {
+      "ProjectGuid": "8e0232f8-f14e-4a6d-81e6-e20f74f0bde3",
+      "DisplayName": "BeginningCSharpAndDotNET_16_7_NumericAggregates",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

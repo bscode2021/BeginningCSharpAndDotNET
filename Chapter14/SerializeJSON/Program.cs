@@ -37,6 +37,17 @@ foreach (Book b in books2)
     Console.WriteLine("code: {0} title: {1} author: {2}", b.code, b.title, b.author);
 }
 
+Console.WriteLine("LINQ");
+var queryRes = 
+    from book in books
+    where book.title.StartsWith("B")
+    select book.title;
+
+foreach (var item in queryRes)
+{
+    Console.WriteLine(item);
+}
+
 Console.WriteLine();
 Console.WriteLine("{");
 
