@@ -41,9 +41,10 @@ Console.WriteLine();
 
 //LINQ syntax for filtering age that is higher or equal then 21
 var result =
-    from p in people
-    where p.Age >= 21
-    select p;
+    from item in people
+    where item.Age >= 21
+    orderby item.Age
+    select item;
 
 Console.WriteLine("LINQ with method syntax older then 20: ");
 foreach (var item in result)

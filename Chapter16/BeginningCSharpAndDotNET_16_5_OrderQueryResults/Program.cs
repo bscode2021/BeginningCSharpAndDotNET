@@ -16,7 +16,7 @@ namespace BeginningCSharpAndDotNET_16_5_OrderQueryResults
             IEnumerable<string> queryResults =
                 from n in names
                 where n.StartsWith("S")
-                orderby n.Length
+                orderby n.Length descending
                 select n;
 
             // LINQ method syntax

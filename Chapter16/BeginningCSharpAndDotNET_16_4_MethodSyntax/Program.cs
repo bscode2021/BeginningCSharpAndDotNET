@@ -3,7 +3,7 @@
 string[] names = { "Alonso", "Zheng", "Smith", "Jones", "Smythe", "Small",
 "Ruiz", "Hsieh", "Jorgenson", "Ilyich", "Singh", "Samba", "Fatimah" };
 
-var queryResults = names.Where(x => x.StartsWith("S"));
+var queryResults = names.Select(x => x);
 
 Console.WriteLine("Names begging with S:");
 foreach (string name in queryResults)

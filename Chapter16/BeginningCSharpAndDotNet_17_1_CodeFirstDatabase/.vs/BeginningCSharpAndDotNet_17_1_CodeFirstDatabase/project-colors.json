@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75de8ebc-578a-47a9-ab00-3326f0b5d2b2": {
+      "ProjectGuid": "75de8ebc-578a-47a9-ab00-3326f0b5d2b2",
+      "DisplayName": "BeginningCSharpAndDotNet_17_1_CodeFirstDatabase",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

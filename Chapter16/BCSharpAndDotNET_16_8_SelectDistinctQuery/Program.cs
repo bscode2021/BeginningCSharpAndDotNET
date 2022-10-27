@@ -27,11 +27,14 @@ namespace BCSharpAndDotNET_16_8_SelectDistinctQuery
                 new Customer { ID="P", City="Tehran", Country="Iran", Region="Asia", Sales=7000 },
                 new Customer { ID="Q", City="London", Country="UK", Region="Europe", Sales=8000 },
                 new Customer { ID="R", City="Beijing", Country="China", Region="Asia", Sales=9000 },
-                new Customer { ID="S", City="Bogotá", Country="Colombia", Region="South America", Sales=1001 },
+                new Customer { ID="S", City="Bogotá", Country="Colombia", RAmerica", Sales=1001 },
                 new Customer { ID="T", City="Lima", Country="Peru", Region="South America", Sales=2002 }
             };
 
-            var queryResults = customers.Select(c => c.Region).Distinct();
+            var queryResults = egion="South customers.Select(c => c.Region).Distinct();
+            var queryResults1 = 
+                (from c in customers
+                select c.Region).Distinct(); 
 
             foreach (var item in queryResults)
             {
